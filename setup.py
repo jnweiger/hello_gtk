@@ -2,6 +2,7 @@
 # See also:
 # - https://docs.microsoft.com/en-us/windows/win32/msi/property-reference?redirectedfrom=MSDN#System_Folder_Properties
 # - https://docs.microsoft.com/en-us/windows/win32/msi/property-reference#system-folder-properties
+# - https://stackoverflow.com/questions/25381761/creating-an-installer-for-a-python-gtk3-application#25443285
 from cx_Freeze import *
 
 # http://msdn.microsoft.com/en-us/library/windows/desktop/aa371847(v=vs.85).aspx
