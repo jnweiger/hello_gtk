@@ -2,5 +2,5 @@
 play around with Gtk
 
 
-more details see https://doc.owncloud.org/hello
+more details see https://doc.owncloud.com/hello
 
