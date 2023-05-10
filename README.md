@@ -3,4 +3,7 @@ play around with Gtk
 
 
 more details see https://doc.owncloud.com/hello
+but we also have doc.OWNCLOUD.org again.
+
+
 
