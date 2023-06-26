@@ -11,6 +11,11 @@ details see https://doc.owncloud.com/hello
 
 does that ever update cached contents?
 
-Änderung am Mittwoch 11.10h wann taucht das im confluence auf?
+Bullet list looks like this
+* lkjhlkjl lkj ljljl
+* lkjlk hlkhjlkhlkj
+  - unterpunkt 1
+  - unterpunkt 2
+* lkj lkjhlkj
 
-Warten wir ab.
+
