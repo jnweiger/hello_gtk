@@ -16,6 +16,6 @@ Bullet list looks like this
 * lkjlk hlkhjlkhlkj
   - unterpunkt 1
   - unterpunkt 2
-* lkj lkjhlkj
+* lkj
 
 
