@@ -17,7 +17,7 @@ def on_activate(app):
     hbox.pack_start(vbox, True, True, 10)
     btn = Gtk.Button(label="Hello, World!")
     btn.connect('clicked', lambda x: win.close())
-    btn2 = Gtk.Button(label="Nothing")
+    btn2 = Gtk.Button(label="Everything")
     btn2.connect('clicked', lambda x: print("Nothing ", x))
     vbox.pack_start(btn, expand=True, fill=True, padding=10)
     vbox.pack_start(btn2, expand=True, fill=True, padding=10)
