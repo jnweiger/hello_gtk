@@ -1,4 +1,6 @@
-# Hello GTK
+Hello GTK
+=========
+
 play around with Gtk
 
 
