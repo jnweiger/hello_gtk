@@ -1,9 +1,9 @@
 Hello GTK
 =========
 
-Hier fehlto noch viel
+Hier fehlt noch viel.
 
-das schreibe ich jetzt...
+Das schreibe ich jetzt.
 
 
 play around with Gtk
