@@ -11,6 +11,6 @@ details see https://doc.owncloud.com/hello
 
 does that ever update cached contents?
 
-Änderung am Mittwoch 11.10h wann taucht das im confluence auf?
+Änderung am Donnerstag 11.10h wann taucht das im confluence auf?
 
 Warten wir ab.
