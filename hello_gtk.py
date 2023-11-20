@@ -4,7 +4,7 @@
 #  - https://zetcode.com/python/gtk/
 #  - https://python-gtk-3-tutorial.readthedocs.io/en/latest/layout.html#example
 #
-# Initial release: 1.0
+# not yet release----
 
 import gi
 gi.require_version("Gtk", "3.0")
