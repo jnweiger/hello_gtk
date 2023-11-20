@@ -10,6 +10,7 @@ import gi
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 
+## each function should have a comment
 def on_activate(app):
     win = Gtk.ApplicationWindow(application=app)
     hbox = Gtk.HBox(spacing=6)
